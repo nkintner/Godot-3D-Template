@@ -1,4 +1,4 @@
-Project 05-FPS Maze
+# Project 05-FPS Maze
 Made for MSCH-C220
 Description
 In this game you work your way through a maze to try and find a key to unlock the exit also attempting to avoid enemies along the way. 
